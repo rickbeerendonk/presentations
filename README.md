@@ -3,7 +3,7 @@
 ## TechDays 2016
 
 Website: [techdays.nl](http://www.techdays.nl)
-* JavaScript 2016 voor C# Ontwikkelaars
+* [JavaScript 2016 voor C# Ontwikkelaars](https://channel9.msdn.com/Events/TechDays/Techdays-2016-The-Netherlands/JavaScript-2016-voor-C-Ontwikkelaars)
 * Visual Studio Code: 25 tips & tricks
 
 ## GOTO Amsterdam 2016
